@@ -1,0 +1,1 @@
+print("Helo, world")#hello world - firs script of any programmer
